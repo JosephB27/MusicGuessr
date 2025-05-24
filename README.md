@@ -1,3 +1,4 @@
+**MusicGuessr** is a Python-based music guessing game developed as a final Computer Programming course project (ICS4U1) by Joseph Bath, Vincenzo Milano, and Ethan Corno in June 2021. The game challenges players to identify song names by watching short video clips.
 
 ## 🕹️ How to Play
 
